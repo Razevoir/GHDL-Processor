@@ -1,0 +1,4 @@
+*.o
+testbench
+*.vcd
+*.cf
