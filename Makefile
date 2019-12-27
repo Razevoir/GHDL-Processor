@@ -1,4 +1,4 @@
-GHDL=ghdl-gcc
+GHDL=ghdl
 GHDLFLAGS=
 GHDLOBJS=\
 	 processor.o\
